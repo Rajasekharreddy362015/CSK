@@ -1,0 +1,125 @@
+body{
+	background-color: khaki;
+}
+header {
+    padding: 20px;
+    background-color: cadetblue;
+}
+input {
+	margin-left: 215px;
+    width: 80%;
+}
+button{
+	border-radius: 25px;
+    color: mediumvioletred;
+    margin-left: 10px;
+}
+/*.menu img{
+	width: 22%;
+    margin-left: 150px;
+    border: 1px solid black;
+    margin-top: 15px;
+    padding: 10px 0px -10px 0px;
+}*/
+.outerbox{
+	display: inline-flex;
+	margin-left: 35px;	
+}
+.container1{
+	    /* width: 51%; */
+    
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    margin-left: 35px;
+    /* width: 300px; */
+
+}
+.container2{
+	margin-top: 43px;
+    margin-left: 150px;
+    margin-right: 260px;
+}
+.container2 img{
+	width: 220%;
+    height: 187px;
+}
+.container3{
+	margin-top: 45px;
+    margin-left: 188px;
+}
+.menu{
+	display: inline-flex;
+    /* text-decoration: none; */
+    list-style-type: none;
+    font-size: x-large;
+    margin-left: 180px;
+    float: left;
+}
+ul li a {
+	text-decoration: none;
+}
+.menu li a:hover{
+	color:white;
+}
+.menu1{
+	display: inline-grid;
+    margin-left: -1140px;
+    margin-top: 130px;
+    border: 1px solid black;
+    padding: 1px 170px 36px 3px;
+    list-style-type: none;
+}
+.menu1 li a:hover{
+	color:red;
+}
+.menu2 img{
+	margin-left: 235pxpx;
+    width: 245px;
+    padding-left: 237px;
+}
+.menu2 p{
+	margin-top: -100px;
+    margin-left: 305px;
+    color: initial;
+}
+.menu3{
+	margin-top: -280px;
+    display: -webkit-box;
+    margin-left: 500px;
+}
+.menu3 li a:hover{
+	color: black;
+}
+.menu4 h2{
+	margin-left: 540px;
+    color: crimson;
+}
+.menu4 p{
+	color: black;
+    font-size: inherit;
+    width: 728px;
+    margin-left: 540px;
+}
+.menu5{
+display: inline-flex;
+    /* text-decoration: none; */
+    list-style-type: none;
+    font-size: x-large;
+    margin-left: 180px;
+    float: left;
+}
+.menu5 li a:hover{
+	color: white;
+}
+.outerbox1{
+	margin-left: 8px;
+}
+footer {
+    padding: 5px 10px 5px 10px;
+    background-color: cadetblue;
+    margin-top: 85px;
+}
+footer p{
+	color: white;
+    text-align: center;
+}
